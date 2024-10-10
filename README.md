@@ -5,4 +5,4 @@
 - *Projects*
   - [discmoji - a discord api wrapper](https://github.com/mojidev-py/discmoji)
   - [learning rust](https://github.com/mojidev-py/rustlearning)
-  -[rocker -  a TUI that allows you to configure Docker containers](https://github.com/mojidev-py/rocker)
+  - [rocker -  a TUI that allows you to configure Docker containers](https://github.com/mojidev-py/rocker)

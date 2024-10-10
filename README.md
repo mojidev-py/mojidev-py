@@ -1,6 +1,7 @@
-<h1 style="text-align:center"> 👋! I'm mojidev-py! <h1>
-<p style="text-align:center"><i>What languages do I know?</i></p>
-<ul>
-  <li>Python - 2 years</li>
-  <li>Rust - just started learning</li>
-</ul>
+## 👋! I'm mojidev-py.
+- I am a developer, and I mostly specialize in 2 languages:
+    - Python (2 years)
+    - Rust (just started learning it)
+- *Projects*
+  - [discmoji - a discord api wrapper](https://github.com/mojidev-py/discmoji)
+  - [learning rust](https://github.com/mojidev-py/rustlearning)

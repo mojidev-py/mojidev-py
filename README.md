@@ -1,4 +1,6 @@
-
-- ![mojidev-py's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mojidev-py&theme=dracula&hide_border=true)
-- ![mojidev-py's Stats](https://github-readme-stats.vercel.app/api?username=mojidev-py&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-- ![mojidev-py's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojidev-py&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<h1 style="text-align:center"> 👋! I'm mojidev-py! <h1>
+<p style="text-align:center"><i>What languages do I know?</i></p>
+<ul>
+  <li>Python - 2 years</li>
+  <li>Rust - just started learning</li>
+</ul>
